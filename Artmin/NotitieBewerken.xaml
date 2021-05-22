@@ -1,0 +1,42 @@
+﻿<Window x:Class="Artmin.NotitieBewerken"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Artmin"
+        mc:Ignorable="d" 
+xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="Notitie Bewerken" Height="491" Width="246" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid>
+        <!--Scherm gemaakt door: Jarno Peeters - R0670336-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="210"   />
+            <RowDefinition Height="40"  />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240"  />
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblKleur" Background="Black" Grid.Row="0" Grid.RowSpan="2"/>
+        <Label x:Name="lblNotities" Content="Notities" Grid.Row="0"  HorizontalAlignment="Center" Margin="83,5,83,0" VerticalAlignment="Center"   FontSize="20" FontWeight="Bold" Padding="0,0,0,0" Height="25" Width="74" Background="Black" Foreground="White"/>
+        <Label x:Name="lblNaamEvenement" Content="Naam evenement"  Grid.Row="1" HorizontalAlignment="Center" Margin="58,0,58,0" VerticalAlignment="Center" FontSize="16" Padding="0,0,0,0" Height="20" Width="124" Background="Black" Foreground="White" />
+        <Button x:Name="btnTerugNaarVorigScherm" Content="&lt; Terug naar notities" FontSize="12" Grid.Row="2"   HorizontalAlignment="Left"  Margin="0,3,0,0" Height="27" Width="240" Foreground="Black" Background="LightGray" BorderBrush="White" Click="btnTerugNaarVorigScherm_Click" />
+        <Label x:Name="lblNotitieTitel" Content="Naam van notitie: " Grid.Row="3" Margin="0,10,0,0" />
+        <TextBox x:Name="txtNotitieNaamAanpassen" Grid.Row="4"  Margin="5,0,10,15" materialDesign:HintAssist.Hint="Notitie naam " TextWrapping="Wrap"></TextBox>
+        <Label x:Name="lblNotitieOmschrijving" Content="Omschrijving van notitie: " Grid.Row="5" Margin="0,10,0,0"/>
+        <TextBox x:Name="txtNotitieOmschrijvingAanpassen" Grid.Row="6"  Margin="5,0,10,15" materialDesign:HintAssist.Hint="Notitie beschrijving " TextWrapping="Wrap"/>
+        <Button x:Name="btnOpslaan" Content="Opslaan" Grid.Row="7"  HorizontalAlignment="Center"  Margin="15,2.4,15,2.6"  VerticalAlignment="Center" Width="90" Height="35" Foreground="White" Background="#3171b7" BorderBrush="#3171b7" Padding="0" FontSize="16" Click="btnOpslaan_Click" />
+    </Grid>
+</Window>

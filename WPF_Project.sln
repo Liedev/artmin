@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artmin", "Artmin\Artmin.csproj", "{F3648DFE-766A-4945-A120-D732BCB4C677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artmin_DAL", "Artmin_DAL\Artmin_DAL.csproj", "{3DB3CFC6-5B5F-4397-B749-ED7A7EC4F9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artmin_Models", "Artmin_Models\Artmin_Models.csproj", "{6AD2BD7E-CEEB-421A-B59F-E249D3FBF0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3648DFE-766A-4945-A120-D732BCB4C677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3648DFE-766A-4945-A120-D732BCB4C677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3648DFE-766A-4945-A120-D732BCB4C677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3648DFE-766A-4945-A120-D732BCB4C677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB3CFC6-5B5F-4397-B749-ED7A7EC4F9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB3CFC6-5B5F-4397-B749-ED7A7EC4F9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB3CFC6-5B5F-4397-B749-ED7A7EC4F9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB3CFC6-5B5F-4397-B749-ED7A7EC4F9B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD2BD7E-CEEB-421A-B59F-E249D3FBF0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD2BD7E-CEEB-421A-B59F-E249D3FBF0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD2BD7E-CEEB-421A-B59F-E249D3FBF0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD2BD7E-CEEB-421A-B59F-E249D3FBF0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF8EEC5-9635-485A-9EB7-B47D1CA846C0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,113 @@
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin.exe.config
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin.exe
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignColors.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignColors.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\MainWindow.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\App.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin_MarkupCompile.cache
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin_MarkupCompile.lref
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\App.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\MainWindow.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.g.resources
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.Properties.Resources.resources
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csproj.GenerateResource.cache
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csproj.CoreCompileInputs.cache
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csproj.CopyComplete
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.exe
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieSelectie.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieToevoegen.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieSelectie.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieToevoegen.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csprojAssemblyReference.cache
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_DAL.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_DAL.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_DAL.dll.config
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_Models.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_Models.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventDetail.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventDetail.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ArtiestenOverzicht.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventBewerken.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieBewerken.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieOverzicht.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ToDoOverzicht.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfShared.WPF.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_Models.dll.config
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfShared.WPF.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\KlantSelectie.g.cs
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ArtiestenOverzicht.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventBewerken.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\KlantSelectie.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieBewerken.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieOverzicht.baml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ToDoOverzicht.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin.exe.config
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin.exe
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin.pdb
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_DAL.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_Models.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.SqlServer.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignColors.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.Licensing.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfInput.WPF.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfShared.WPF.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_DAL.pdb
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_DAL.dll.config
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_Models.pdb
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Artmin_Models.dll.config
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\EntityFramework.SqlServer.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignColors.pdb
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfInput.WPF.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\bin\Debug\Syncfusion.SfShared.WPF.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csprojAssemblyReference.cache
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ArtiestenOverzicht.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventBewerken.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventDetail.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\KlantSelectie.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieSelectie.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieToevoegen.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\MainWindow.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieBewerken.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieOverzicht.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ToDoOverzicht.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\App.g.cs
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin_MarkupCompile.cache
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin_MarkupCompile.lref
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\App.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ArtiestenOverzicht.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventBewerken.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\EventDetail.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\KlantSelectie.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieSelectie.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\LocatieToevoegen.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\MainWindow.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieBewerken.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\NotitieOverzicht.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\ToDoOverzicht.baml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.g.resources
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.Properties.Resources.resources
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csproj.GenerateResource.cache
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csproj.CoreCompileInputs.cache
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csproj.CopyComplete
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.exe
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.pdb
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.csprojAssemblyReference.cache
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.exe
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin\obj\Debug\Artmin.pdb

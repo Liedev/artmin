@@ -1,0 +1,51 @@
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csproj.CoreCompileInputs.cache
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.pdb
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.dll.config
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfShared.WPF.dll
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfShared.WPF.xml
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csprojAssemblyReference.cache
+C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csproj.CopyComplete
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.dll.config
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.pdb
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.Licensing.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfInput.WPF.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfShared.WPF.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfInput.WPF.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfShared.WPF.xml
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csprojAssemblyReference.cache
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csproj.CoreCompileInputs.cache
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csproj.CopyComplete
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.dll
+F:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.pdb
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.dll.config
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Artmin_Models.pdb
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.Licensing.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfInput.WPF.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfShared.WPF.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.xml
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfInput.WPF.xml
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\bin\Debug\Syncfusion.SfShared.WPF.xml
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csprojAssemblyReference.cache
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csproj.CoreCompileInputs.cache
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.csproj.CopyComplete
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.dll
+D:\Eerste jaar programmeren\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_Models\obj\Debug\Artmin_Models.pdb

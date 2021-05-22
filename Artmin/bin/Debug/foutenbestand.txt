@@ -1,0 +1,129 @@
+18:04:28 
+DbUpdateException
+An error occurred while updating the entries. See the inner exception for details.
+   bij System.Data.Entity.Internal.InternalContext.SaveChanges()
+   bij System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   bij System.Data.Entity.DbContext.SaveChanges()
+   bij Artmin_DAL.DatabaseOperations.VerwijderLocatie(Locatie locatie) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 31
+--------------------------------------------------------------------------------
+
+18:04:36 
+DbUpdateException
+An error occurred while updating the entries. See the inner exception for details.
+   bij System.Data.Entity.Internal.InternalContext.SaveChanges()
+   bij System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   bij System.Data.Entity.DbContext.SaveChanges()
+   bij Artmin_DAL.DatabaseOperations.VerwijderLocatie(Locatie locatie) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 31
+--------------------------------------------------------------------------------
+
+18:05:30 
+DbUpdateException
+An error occurred while updating the entries. See the inner exception for details.
+   bij System.Data.Entity.Internal.InternalContext.SaveChanges()
+   bij System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   bij System.Data.Entity.DbContext.SaveChanges()
+   bij Artmin_DAL.DatabaseOperations.VerwijderLocatie(Locatie locatie) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 31
+--------------------------------------------------------------------------------
+
+18:36:00 
+DbUpdateException
+An error occurred while updating the entries. See the inner exception for details.
+   bij System.Data.Entity.Internal.InternalContext.SaveChanges()
+   bij System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   bij System.Data.Entity.DbContext.SaveChanges()
+   bij Artmin_DAL.DatabaseOperations.VerwijderLocatie(Locatie locatie) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 31
+--------------------------------------------------------------------------------
+
+15:05:47 
+ArgumentNullException
+Waarde kan niet null zijn.
+Parameternaam: entity
+   bij System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   bij System.Data.Entity.DbContext.Entry(Object entity)
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Nullable`1 eventlocatieID) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 30
+--------------------------------------------------------------------------------
+
+15:14:27 
+InvalidOperationException
+A referential integrity constraint violation occurred: The property value(s) of 'Locatie.LocatieID' on one end of a relationship do not match the property value(s) of 'Event.LocatieID' on the other end.
+   bij System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.DataClasses.RelationshipManager.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachSingleObject(IEntityWrapper wrappedEntity, EntitySet entitySet)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClass16_0.<Attach>b__0()
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   bij System.Data.Entity.Internal.InternalEntityEntry.set_State(EntityState value)
+   bij System.Data.Entity.Infrastructure.DbEntityEntry`1.set_State(EntityState value)
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Event event) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 30
+--------------------------------------------------------------------------------
+
+15:16:45 
+InvalidOperationException
+A referential integrity constraint violation occurred: The property value(s) of 'Locatie.LocatieID' on one end of a relationship do not match the property value(s) of 'Event.LocatieID' on the other end.
+   bij System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.DataClasses.RelationshipManager.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachSingleObject(IEntityWrapper wrappedEntity, EntitySet entitySet)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClass16_0.<Attach>b__0()
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   bij System.Data.Entity.Internal.InternalEntityEntry.set_State(EntityState value)
+   bij System.Data.Entity.Infrastructure.DbEntityEntry`1.set_State(EntityState value)
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Event event) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 30
+--------------------------------------------------------------------------------
+
+15:19:37 
+InvalidOperationException
+A referential integrity constraint violation occurred: The property value(s) of 'Locatie.LocatieID' on one end of a relationship do not match the property value(s) of 'Event.LocatieID' on the other end.
+   bij System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.DataClasses.RelationshipManager.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachSingleObject(IEntityWrapper wrappedEntity, EntitySet entitySet)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClass16_0.<Attach>b__0()
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   bij System.Data.Entity.Internal.InternalEntityEntry.set_State(EntityState value)
+   bij System.Data.Entity.Infrastructure.DbEntityEntry`1.set_State(EntityState value)
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Event event) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 30
+--------------------------------------------------------------------------------
+
+15:30:20 
+InvalidOperationException
+A referential integrity constraint violation occurred: The property value(s) of 'Locatie.LocatieID' on one end of a relationship do not match the property value(s) of 'Event.LocatieID' on the other end.
+   bij System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.DataClasses.RelationshipManager.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachSingleObject(IEntityWrapper wrappedEntity, EntitySet entitySet)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClass16_0.<Attach>b__0()
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   bij System.Data.Entity.Internal.InternalEntityEntry.set_State(EntityState value)
+   bij System.Data.Entity.Infrastructure.DbEntityEntry`1.set_State(EntityState value)
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Event event) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 30
+--------------------------------------------------------------------------------
+
+15:55:45 
+InvalidOperationException
+A referential integrity constraint violation occurred: The property value(s) of 'Locatie.LocatieID' on one end of a relationship do not match the property value(s) of 'Event.LocatieID' on the other end.
+   bij System.Data.Entity.Core.Objects.DataClasses.RelatedEnd.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.DataClasses.RelationshipManager.CheckReferentialConstraintProperties(EntityEntry ownerEntry)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachSingleObject(IEntityWrapper wrappedEntity, EntitySet entitySet)
+   bij System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClass16_0.<Attach>b__0()
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   bij System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   bij System.Data.Entity.Internal.InternalEntityEntry.set_State(EntityState value)
+   bij System.Data.Entity.Infrastructure.DbEntityEntry`1.set_State(EntityState value)
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Event event) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 30
+--------------------------------------------------------------------------------
+
+22:26:22 
+DbUpdateException
+An error occurred while updating the entries. See the inner exception for details.
+   bij System.Data.Entity.Internal.InternalContext.SaveChanges()
+   bij System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   bij System.Data.Entity.DbContext.SaveChanges()
+   bij Artmin_DAL.DatabaseOperations.UpdateEvent(Event event) in C:\Users\stijn\source\repos\projectwerk\project_wpf\Groep2_JarnoLievenStijn_WPFProject\WPF_Project\Artmin_DAL\DatabaseOperations.cs:regel 29
+--------------------------------------------------------------------------------
+

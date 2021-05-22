@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ArtminModelStoreContainer" CdmEntityContainer="ArtminEntities">
+    <EntitySetMapping Name="Artiest">
+      <EntityTypeMapping TypeName="ArtminModel.Artiest">
+        <MappingFragment StoreEntitySet="Artiest">
+          <ScalarProperty Name="ArtiestID" ColumnName="ArtiestID" />
+          <ScalarProperty Name="Naam" ColumnName="Naam" />
+          <ScalarProperty Name="Telefoon" ColumnName="Telefoon" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Bankrekeningnr" ColumnName="Bankrekeningnr" />
+          <ScalarProperty Name="EventID" ColumnName="EventID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Event">
+      <EntityTypeMapping TypeName="ArtminModel.Event">
+        <MappingFragment StoreEntitySet="Event">
+          <ScalarProperty Name="EventID" ColumnName="EventID" />
+          <ScalarProperty Name="Eventnaam" ColumnName="Eventnaam" />
+          <ScalarProperty Name="EventtypeID" ColumnName="EventtypeID" />
+          <ScalarProperty Name="Datum" ColumnName="Datum" />
+          <ScalarProperty Name="Startuur" ColumnName="Startuur" />
+          <ScalarProperty Name="Einduur" ColumnName="Einduur" />
+          <ScalarProperty Name="LocatieID" ColumnName="LocatieID" />
+          <ScalarProperty Name="KlantID" ColumnName="KlantID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Eventtype">
+      <EntityTypeMapping TypeName="ArtminModel.Eventtype">
+        <MappingFragment StoreEntitySet="Eventtype">
+          <ScalarProperty Name="EventtypeID" ColumnName="EventtypeID" />
+          <ScalarProperty Name="Naam" ColumnName="Naam" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Klant">
+      <EntityTypeMapping TypeName="ArtminModel.Klant">
+        <MappingFragment StoreEntitySet="Klant">
+          <ScalarProperty Name="KlantID" ColumnName="KlantID" />
+          <ScalarProperty Name="Naam" ColumnName="Naam" />
+          <ScalarProperty Name="Straat" ColumnName="Straat" />
+          <ScalarProperty Name="Huisnr" ColumnName="Huisnr" />
+          <ScalarProperty Name="Postcode" ColumnName="Postcode" />
+          <ScalarProperty Name="Gemeente" ColumnName="Gemeente" />
+          <ScalarProperty Name="BTWnummer" ColumnName="BTWnummer" />
+          <ScalarProperty Name="Contactnaam" ColumnName="Contactnaam" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefoon" ColumnName="Telefoon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Locatie">
+      <EntityTypeMapping TypeName="ArtminModel.Locatie">
+        <MappingFragment StoreEntitySet="Locatie">
+          <ScalarProperty Name="LocatieID" ColumnName="LocatieID" />
+          <ScalarProperty Name="Naam" ColumnName="Naam" />
+          <ScalarProperty Name="Straat" ColumnName="Straat" />
+          <ScalarProperty Name="Huisnr" ColumnName="Huisnr" />
+          <ScalarProperty Name="Postcode" ColumnName="Postcode" />
+          <ScalarProperty Name="Gemeente" ColumnName="Gemeente" />
+          <ScalarProperty Name="Manager" ColumnName="Manager" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefoon" ColumnName="Telefoon" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Notitie">
+      <EntityTypeMapping TypeName="ArtminModel.Notitie">
+        <MappingFragment StoreEntitySet="Notitie">
+          <ScalarProperty Name="NotitieID" ColumnName="NotitieID" />
+          <ScalarProperty Name="Titel" ColumnName="Titel" />
+          <ScalarProperty Name="Omschrijving" ColumnName="Omschrijving" />
+          <ScalarProperty Name="EventID" ColumnName="EventID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ToDo">
+      <EntityTypeMapping TypeName="ArtminModel.ToDo">
+        <MappingFragment StoreEntitySet="ToDo">
+          <ScalarProperty Name="ToDoID" ColumnName="ToDoID" />
+          <ScalarProperty Name="Titel" ColumnName="Titel" />
+          <ScalarProperty Name="Omschrijving" ColumnName="Omschrijving" />
+          <ScalarProperty Name="Afgewerkt" ColumnName="Afgewerkt" />
+          <ScalarProperty Name="Volgnr" ColumnName="Volgnr" />
+          <ScalarProperty Name="EventID" ColumnName="EventID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

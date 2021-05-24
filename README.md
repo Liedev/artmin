@@ -8,7 +8,7 @@ Documentation is in dutch
 
 ## What Is Artmin
 
-A C# database(SQL) first approach project where you could add the following to an event:
+A C# database(SQL) first approach project where you could add an event with the following features:
 1. Notes
 2. TODO
 3. Location
@@ -17,4 +17,4 @@ A C# database(SQL) first approach project where you could add the following to a
 
 ## Project
 
-Together with my fellow students <a href="http://www.stijnbeckers.digital/" target="_blank">Stijn</a> and <a href="https://jarnopeeters.be/" target="_blank">Jarno</a> we created a part of a mobile application in a WPF  environment.
+Together with my fellow students <a href="http://www.stijnbeckers.digital/" target="_blank">Stijn</a> and <a href="https://jarnopeeters.be/" target="_blank">Jarno</a> we created a part of a mobile application in a WPF environment.
